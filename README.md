@@ -16,11 +16,11 @@ Developed an end-to-end Power BI dashboard analyzing **Air Quality Index (AQI) d
 
 ## 🖼️ Dashboard Preview
 Consolidated View :
-()
+(https://github.com/Datthatreya/AQI-and-Pollution-Trend-Analysis/blob/main/Consolidated%20Data.png)
 Population View : 
-()
+(https://github.com/Datthatreya/AQI-and-Pollution-Trend-Analysis/blob/main/Population%20view.png)
 Specific Data view: 
-()
+(https://github.com/Datthatreya/AQI-and-Pollution-Trend-Analysis/blob/main/Specific%20Aqi%20Data.png)
 
 ---
 
